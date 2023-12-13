@@ -7,7 +7,7 @@
   "Versions": [
     {
       "Version": "0.0.0",
-      "Url": "https://github.com/pjg11/micro-urlopen/archive/0.0.0.zip",
+      "Url": "https://github.com/pjg11/micro-urlopen/archive/v0.0.0.zip",
       "Require": {
         "micro": ">=2.0.13"
       }
